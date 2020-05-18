@@ -1,4 +1,4 @@
-![](https://github.com/armelsoubeiga/WaxClassification/blob/master/bg.PNG)
+![](https://github.com/armelsoubeiga/fasobiere-classification/blob/master/static/bf-biere.jpg)
 
 # fasobiere-classification
 
