@@ -1,4 +1,5 @@
 # FasoBiere
+![](static/Beer_Bottle.png)
 
 ## Burkina Faso Beer Bottle Image Dataset
 This dataset contains a collection of beer bottle images from Burkina Faso into six categories. The images were collected and labeled three years ago as part of a web application project to classify beer bottles using Heroku and the TensorFlow framework.
