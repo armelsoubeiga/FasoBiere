@@ -1,7 +1,7 @@
 # FasoBiere
 
 ## Burkina Faso Beer Bottle Image Dataset
-This dataset contains a collection of beer bottle images from Burkina Faso in six categories. The images were collected and labeled three years ago as part of a web application project to classify beer bottles using Heroku and the TensorFlow framework.
+This dataset contains a collection of beer bottle images from Burkina Faso into six categories. The images were collected and labeled three years ago as part of a web application project to classify beer bottles using Heroku and the TensorFlow framework.
 
 ## Dataset Details
 The dataset includes a total of 6098 images, with ~1000 images for each of the six categories: Brakina, Sobbra, Castel, Beaufort, Flag, and Guiness. The images are in different format with a different resolution of pixels.
