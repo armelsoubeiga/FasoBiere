@@ -14,7 +14,7 @@ The dataset is available for open access and can be used for research or educati
       title = {Burkina Faso Beer Bottle Image Dataset},
       author = {Armel SOUBEIGA},
       year = {2020},
-      howpublished = {\url{https://github.com/your-github-username/repository-name}},
+      howpublished = {https://github.com/armelsoubeiga/FasoBiere},
     }
 
 
