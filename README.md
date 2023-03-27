@@ -19,7 +19,7 @@ The dataset is available for open access and can be used for research or educati
 
 
 ## Download
-The dataset can be downloaded from [insert link to dataset].
+The dataset can be downloaded from [<span style="color: red;">link to dataset</span>](https://raw.githubusercontent.com/armelsoubeiga/FasoBiere/main/Data/images-dataset.zip).
 
 ## License
 This dataset is distributed under the Creative Commons Attribution-ShareAlike 4.0 International Public License. You are free to share and adapt the material, but you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
