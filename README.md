@@ -2,5 +2,4 @@
 
 # fasobiere-classification
 
-Web application to classified beer bottle from Burkina Faso using Heroku and Tensorflow framework.
-An application for classifying beer categories in Burkina Faso. Model developed with Tensorflow and deployed on Heroku with Flask.
+Web application to classified beer bottle from Burkina Faso using Heroku and Tensorflow framework. Model developed with Tensorflow and deployed on Heroku with Flask.
